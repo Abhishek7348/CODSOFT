@@ -17,7 +17,7 @@ This is a simple To-Do List application built using Python and Tkinter. The appl
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Abhishek7348/CODSOFT/edit/main/TO-DO%20LIST/to_do_list.py
+    git clone https://github.com/Abhishek7348/CODSOFT/edit/main/TO-DO%20LIST.git
     ```
 2. Navigate to the project directory:
     ```sh
