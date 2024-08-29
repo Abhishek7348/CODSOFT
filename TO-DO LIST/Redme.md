@@ -39,6 +39,9 @@ This is a simple To-Do List application built using Python and Tkinter. The appl
 4. Click on a task to mark it as completed.
 5. Use the delete button to remove a task from the list.
 
+## Screenshots
+![Password Generator Screenshot](icons/Screenshot1.png)
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
