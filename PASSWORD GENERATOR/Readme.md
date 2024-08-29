@@ -52,7 +52,7 @@ python GP.py
 - Click "Copy" to copy the password to the clipboard.
 
 ## Screenshots
-(Include a screenshot of the GUI here)
+![Password Generator Screenshot](screenshot1.png)
 
 ## Contributing
 Contributions are welcome! If you have any ideas, feel free to fork the repository and submit a pull request.
